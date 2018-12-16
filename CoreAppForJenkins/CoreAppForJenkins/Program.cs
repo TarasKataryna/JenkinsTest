@@ -7,6 +7,7 @@ namespace CoreAppForJenkins
         static void Main(string[] args)
         {
             Console.WriteLine("Darova Jenkins!!!!!");
+	    Console.WriteLine("Darova Jenkins2!!!!");
         }
     }
 }
