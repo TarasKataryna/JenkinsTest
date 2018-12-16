@@ -8,6 +8,7 @@ namespace CoreAppForJenkins
         {
             Console.WriteLine("Darova Jenkins!!!!!");
 	    Console.WriteLine("Darova Jenkins2!!!!");
+	    Console.WriteLine("Darova Jenkins3!!!!");
         }
     }
 }
